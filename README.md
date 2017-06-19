@@ -1,2 +1,4 @@
 # hello-world
-sample repository
+Hello All !
+
+  this is my first repository on git hub and am the new learner.
